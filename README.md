@@ -1,4 +1,4 @@
-# CG CAD Individual Assignment Start Repo
+# Cad Tool
 
 A CAD tool providing core drawing features and utilities. This is design for simple workflows with 2D shapes and measurements.
 
