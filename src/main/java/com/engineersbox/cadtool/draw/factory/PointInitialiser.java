@@ -1,0 +1,12 @@
+package com.engineersbox.cadtool.draw.factory;
+
+import java.lang.annotation.ElementType;
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+import java.lang.annotation.Target;
+
+@Retention(RetentionPolicy.RUNTIME)
+@Target({ElementType.CONSTRUCTOR})
+public @interface PointInitialiser {
+    String value();
+}

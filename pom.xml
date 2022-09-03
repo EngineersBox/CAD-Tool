@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.engineersbox</groupId>
-	<artifactId>comp4610-assign1</artifactId>
+	<artifactId>cadtool</artifactId>
 	<version>0.1.0</version>
 	<packaging>jar</packaging>
 
-	<name>COMP4610 Assignment 1</name>
+	<name>CAD Tool</name>
 
     <properties>
         <!-- Versions -->
